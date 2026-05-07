@@ -29,7 +29,7 @@ Y luego muestre una "tarjeta de presentación" bien formateada con esa informaci
 **Ejemplo de salida esperada:**
 ```
 ╔══════════════════════════════════╗
-║       TARJETA DE PRESENTACIÓN   ║
+║       TARJETA DE PRESENTACIÓN    ║
 ╠══════════════════════════════════╣
 ║  Nombre:  Ana García             ║
 ║  Edad:    21 años                ║
