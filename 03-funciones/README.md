@@ -152,7 +152,7 @@ def calcular_imc(peso, altura):
 | [`02_parametros_return.py`](./scripts/02_parametros_return.py) | Parámetros, valores por defecto y return |
 | [`03_funciones_utiles.py`](./multiple/03_funciones_utiles.py) | Librería de funciones útiles del día a día |
 | [`04_scope_y_buenas_practicas.py`](./validacion/04_scope_y_buenas_practicas.py) | Scope, docstrings y cómo organizar un programa |
-| [`05_juego_refactorizado.py`](./scripts/05_juego_refactorizado.py) | El juego del Nivel 2 reescrito con funciones |
+| [`05_juego_refactorizado.py`](./name/05_juego_refactorizado.py) | El juego del Nivel 2 reescrito con funciones |
 
 ---
 
