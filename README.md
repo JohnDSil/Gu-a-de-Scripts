@@ -21,7 +21,7 @@ Este repositorio está diseñado para **estudiantes de informática que empiezan
 | 1 | [`01-basico`](./01-basico/) | Variables, tipos, entrada/salida | ✅ Completo |
 | 2 | [`02-control-flujo`](./02-control-flujo/) | If/else, bucles, lógica | ✅ Completo |
 | 3 | [`03-funciones`](./03-funciones/) | Funciones, parámetros, retorno | ✅ Completo |
-| 4 | [`04-archivos`](./04-archivos/) | Leer/escribir archivos, CSV, JSON | 🔜 Próximamente |
+| 4 | [`04-archivos`](./04-archivos/) | Leer/escribir archivos, CSV, JSON | ✅ Completo |
 | 5 | [`05-automatizacion`](./05-automatizacion/) | Scripts reales de automatización | 🔜 Próximamente |
 | 6 | [`06-proyectos`](./06-proyectos/) | Proyectos completos integradores | 🔜 Próximamente |
 
