@@ -1,0 +1,8 @@
+Python es un lenguaje de programación de alto nivel, interpretado y de propósito general.
+Fue creado por Guido van Rossum y publicado por primera vez en 1991.
+Su filosofía de diseño enfatiza la legibilidad del código.
+Python soporta múltiples paradigmas de programación.
+Es ampliamente utilizado en ciencia de datos, inteligencia artificial y desarrollo web.
+La comunidad de Python es una de las más grandes y activas del mundo.
+El nombre del lenguaje viene del programa de televisión Monty Python's Flying Circus.
+Python usa indentación para definir bloques de código, lo que fuerza un estilo limpio.

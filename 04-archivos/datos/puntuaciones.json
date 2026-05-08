@@ -1,0 +1,13 @@
+{
+    "partidas": [
+        {"jugador": "Ana", "intentos": 4, "gano": true, "fecha": "2025-01-15"},
+        {"jugador": "Luis", "intentos": 7, "gano": false, "fecha": "2025-01-15"},
+        {"jugador": "Sofía", "intentos": 2, "gano": true, "fecha": "2025-01-16"},
+        {"jugador": "Carlos", "intentos": 5, "gano": true, "fecha": "2025-01-16"}
+    ],
+    "configuracion": {
+        "numero_min": 1,
+        "numero_max": 100,
+        "max_intentos": 7
+    }
+}
