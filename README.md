@@ -23,7 +23,7 @@ Este repositorio está diseñado para **estudiantes de informática que empiezan
 | 3 | [`03-funciones`](./03-funciones/) | Funciones, parámetros, retorno | ✅ Completo |
 | 4 | [`04-archivos`](./04-archivos/) | Leer/escribir archivos, CSV, JSON | ✅ Completo |
 | 5 | [`05-automatizacion`](./05-automatizacion/) | Scripts reales de automatización | ✅ Completo |
-| 6 | [`06-proyectos`](./06-proyectos/) | Proyectos completos integradores | 🔜 Próximamente |
+| 6 | [`06-proyectos`](./06-proyectos/) | Proyectos completos integradores | ✅ Completo |
 
 ---
 
